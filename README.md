@@ -1,2 +1,2 @@
-# route4me
-Tests for route4me (Login, Search) with TestNG, Maven, Java, SeleniumWebDriver.
+# r4m
+UI tests for r4m (Login, Search) with TestNG, Maven, Java, SeleniumWebDriver.
